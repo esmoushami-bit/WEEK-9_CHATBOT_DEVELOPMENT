@@ -97,7 +97,4 @@ Open `notebook/Week9_Chatbot_Development.ipynb` in VS Code and run the cells to 
 ## 10. Conclusion
 This project demonstrates how to build a simple AI chatbot using Python and Ollama. It also demonstrates conversation logging, CSV data handling, and chatbot response analysis using a Jupyter Notebook.
 
-## 11. Author
-**Name:** Your Name  
-**Course:** Your Course Name  
-**Project:** Week 9 – Chatbot Development
+
